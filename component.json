@@ -4,6 +4,6 @@
   "description": "Detect type of object with Object.prototype.toString",
   "version": "0.1.0",
   "keywords": ["type", "typeof"],
-  "files": ["index.js"],
+  "main": "fastclick.js",
   "license": "MIT"
 }
